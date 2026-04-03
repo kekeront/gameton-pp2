@@ -114,7 +114,7 @@ game.py                    # Точка входа, главный игрово�
 | Участник | GitHub |
 |----------|--------|
 | Altair Zhambyl | [@kekeront](https://github.com/kekeront) |
-| Daniyar Telengutov | — |
+| Daniyar Telengutov | [dan-tel](https://github.com/dan-tel) |
 
 ---
 
